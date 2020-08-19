@@ -1,0 +1,15 @@
+header {
+  background-color: #fc0b0b;
+  padding: 40px;
+}
+
+h1 {
+  color: #ff8080;
+  font-weight: normal;
+  text-align: center;
+}
+
+strong.reactjs {
+  font-weight: bold;
+  margin-left: 1px;
+}
