@@ -22,7 +22,6 @@ function App() {
   return (
     <>
       {data.length > 0 && data[0].author}
-      {console.log(data[0])}
       {data.map((post) => {
         const dataPost = post.data;
         return (
