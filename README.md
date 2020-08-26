@@ -36,5 +36,5 @@ This aplication was made for practice ReactJS to practice.
 
 ---
 
-Made with 💜 by Luiz Fernando :wave: [Linkedin](https://www.linkedin.com/in/luizfernandoo/) AND [Twitter](https://www.twitter.com/lfnandoo/)
+Made with 💜 by Luiz Fernando :wave: [Linkedin](https://www.linkedin.com/in/luizfernandoo/)
 
