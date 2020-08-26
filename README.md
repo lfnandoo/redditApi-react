@@ -5,33 +5,36 @@
 <h4 align="center">
   🚀 RedditAPI - ReactJS
 </h4>
+<h4 align="center">
+ 🔥 <a href="react-reddit.vercel.app">Demo</a>
+</h4>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Project made with:
 
 - ReactJS
 - CSS
 
-## 💻 Projeto
+## 💻 Project
 
-A aplicação criada por mim para praticar ReactJS.
+This aplication was made for practice ReactJS to practice.
 
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="RedditAPILayout" src="/.github/layout.png" width="100%">
+  <img alt="RedditAPI" src="/.github/layout.png" width="100%">
 </p>
 
 ---
 
-Feito com 💜 por Luiz Fernando :wave: [Linkedin](https://www.linkedin.com/in/luizfernandoo/) & [Twitter](https://www.twitter.com/lfnandoo/)
+Made with 💜 by Luiz Fernando :wave: [Linkedin](https://www.linkedin.com/in/luizfernandoo/) AND [Twitter](https://www.twitter.com/lfnandoo/)
 
